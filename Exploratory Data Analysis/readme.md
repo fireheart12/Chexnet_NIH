@@ -57,3 +57,15 @@ For healthy cases :
 (*Mean age of the distribution of healthy patients= 45.48  Standard Deviation age of the distribution of healthy patients= 16.53*.)
 
 **Inference** : The mean and standard deviation for both healthy and diagnosed patients is comparable and within each other's hair. Hence, considering this as a feature to distinguish between them might not give the best results.
+
+## Gender Analysis
+
+Following distribution b/w diagnosed males : diagnosed females was observed. Once again, it's comparable and not a very strong basis for identification. Both genders seem almost equally prone to the infection.
+
+![](https://github.com/CodingWitcher/NIH_Chest_X_Ray/blob/main/images_for_readme/gender.png)
+
+-------------------------------------------------------------------------------------
+
+This all concludes our initial EDA. Navigate back to the main page, from where you can access the data creation/classification pipeline created post this step.
+
+Back to main : **https://github.com/CodingWitcher/NIH_Chest_X_Ray**
