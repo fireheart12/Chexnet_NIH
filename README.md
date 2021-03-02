@@ -22,3 +22,6 @@ The dataset is freely available at : **https://www.kaggle.com/nih-chest-xrays/da
 
 # Exploratory Data Analysis : 
 
+A separate section of this repository contains the work done in EDA. Please navigate to the link down below to reach the EDA sub-section.
+
+EDA : **https://github.com/CodingWitcher/NIH_Chest_X_Ray/tree/main/Exploratory%20Data%20Analysis**
