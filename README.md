@@ -21,11 +21,19 @@ The dataset is freely available at : **https://www.kaggle.com/nih-chest-xrays/da
 * **Tensorflow 2x** : Deep learning framework by Google, for designing machine learning pipelines (*from training to production*).
 
 # Exploratory Data Analysis : 
-
 A separate section of this repository contains the work done in EDA. Please navigate to the link down below to reach the EDA sub-section.
 
 EDA : **https://github.com/CodingWitcher/NIH_Chest_X_Ray/tree/main/Exploratory%20Data%20Analysis**
 
-# Tensorflow Records (TFRecs) Preparation [OPTIONAL] : 
+# Tensorflow Records Preparation [OPTIONAL] : 
+A separate section of this repository contains the script and necessary info on TFRecord creation. Please navigate to the link down below to reach it.
+
+Create TFRec files : **https://github.com/CodingWitcher/NIH_Chest_X_Ray/tree/main/prepare-tfrec**
+
+# Classification Pipeline - Using CheXNet Architecture
+This is available at the link down below, along with it's own readme and code file/s.
+
+Classification model : **https://github.com/CodingWitcher/NIH_Chest_X_Ray/tree/main/classification**
+
 
 
