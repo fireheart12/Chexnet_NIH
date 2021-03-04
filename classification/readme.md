@@ -28,3 +28,24 @@ Following images show the detected nodules in a typical chest X-ray (*note that 
 **Also, it is interesting to note how alike TP(True positive) nodules and FP(False Positive) nodules appear. In the first image, we have a TP and in second FP. Even from naked eyes, it's exruciatingly difficult to tell them apart as real/fake. Interestingly, most research papers leave it after ROC AUC, whereas we feel the true picture is never completed without the Confusion matrix**.
 
 ## Results ~ Part Two Of Two
+
+Training and validation learning curves - *as obtained from Tensorboard*
+
+![](https://github.com/CodingWitcher/NIH_Chest_X_Ray/blob/main/images_for_readme/epoch_loss.png)
+(*Epoch loss observed. Orange - Training || Blue - Validation*)
+
+![](https://github.com/CodingWitcher/NIH_Chest_X_Ray/blob/main/images_for_readme/epoch_auc.png)
+(*Epoch AUC observed. Orange - Training || Blue - Validation*)
+
+Using **EarlyStopping** callback with **saving_best_model** parameter, **on the basis of validation loss**; appropriate model was exported and saved.
+
+Following was the confusion matrix obtained : 
+
+![](https://github.com/CodingWitcher/NIH_Chest_X_Ray/blob/main/images_for_readme/cm.png)
+(*Confusion matrix obtained on validation dataset*)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+* The CheXNet training code is available as **chexnet.py** file in this subdirectory.
+* Inference is avaialble as Jupyter notebook(**chexnet_inference.ipynb**) in this subdirectory.
+
+Back to main directory - **https://github.com/CodingWitcher/NIH_Chest_X_Ray**
