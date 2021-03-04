@@ -39,6 +39,8 @@ Classification model : **https://github.com/CodingWitcher/NIH_Chest_X_Ray/tree/m
 
 **Thank you for reading this far. For any query, feel free to ping at : bauraiaditya7@gmail.com**
 
+![](https://github.com/CodingWitcher/NIH_Chest_X_Ray/blob/main/images_for_readme/thank%20you.jpg)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
