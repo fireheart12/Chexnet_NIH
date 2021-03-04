@@ -1,4 +1,4 @@
-# NIH_Chest_X_Ray
+# CheXNet_NIH
 
 ![](https://github.com/CodingWitcher/NIH_Chest_X_Ray/blob/main/images_for_readme/1.jpg)
 
