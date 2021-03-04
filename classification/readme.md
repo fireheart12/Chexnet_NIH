@@ -48,5 +48,7 @@ Following was the confusion matrix obtained :
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 * The CheXNet training code is available as **chexnet.py** file in this subdirectory.
 * Inference is avaialble as Jupyter notebook(**chexnet_inference.ipynb**) in this subdirectory.
+* Saved model is available at : **https://github.com/CodingWitcher/NIH_Chest_X_Ray/tree/main/classification/saved_model**
+* Training and validation metadata files used are avaialble at : **https://github.com/CodingWitcher/NIH_Chest_X_Ray/tree/main/classification/prepared_metadata**
 
 Back to main directory - **https://github.com/CodingWitcher/NIH_Chest_X_Ray**
