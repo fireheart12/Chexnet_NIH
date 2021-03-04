@@ -35,5 +35,11 @@ This is available at the link down below, along with it's own readme and code fi
 
 Classification model : **https://github.com/CodingWitcher/NIH_Chest_X_Ray/tree/main/classification**
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+**Thank you for reading this far. For any query, feel free to ping at : bauraiaditya7@gmail.com**
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
