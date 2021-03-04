@@ -42,6 +42,7 @@ Using **EarlyStopping** callback with **saving_best_model** parameter, **on the 
 Following was the confusion matrix obtained : 
 
 ![](https://github.com/CodingWitcher/NIH_Chest_X_Ray/blob/main/images_for_readme/cm.png)
+
 (*Confusion matrix obtained on validation dataset*)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
